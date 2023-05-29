@@ -19,5 +19,11 @@ export const countriesFlag =
     { name: "Austria", flagUrl: "https://flagcdn.com/at.svg" },
     { name: "Chile", flagUrl: "https://flagcdn.com/cl.svg" },
     { name: "Hungary", flagUrl: "https://flagcdn.com/hu.svg" },
-    { name: "United States", flagUrl: "https://flagcdn.com/us.svg" }
+    { name: "United States", flagUrl: "https://flagcdn.com/us.svg" },
+    { name: "South Africa", flagUrl: "https://flagcdn.com/za.svg" },
+    { name: "Switzerland", flagUrl: "https://flagcdn.com/ch.svg" },
+    { name: "Qatar", flagUrl: "https://flagcdn.com/qa.svg" },
+    { name: "Russia", flagUrl: "https://flagcdn.com/ru.svg" },
+    { name: "South Korea", flagUrl: "https://flagcdn.com/kr.svg" },
+    { name: "Japan", flagUrl: "https://flagcdn.com/jp.svg" }
   ];
