@@ -7,6 +7,7 @@ export const countriesFlag =
     { name: "England", flagUrl: "https://flagcdn.com/gb.svg" },
     { name: "France", flagUrl: "https://flagcdn.com/fr.svg" },
     { name: "Germany", flagUrl: "https://flagcdn.com/de.svg" },
+    { name: "West Germany", flagUrl: "https://flagcdn.com/de.svg" },
     { name: "Italy", flagUrl: "https://flagcdn.com/it.svg" },
     { name: "Netherlands", flagUrl: "https://flagcdn.com/nl.svg" },
     { name: "Poland", flagUrl: "https://flagcdn.com/pl.svg" },
@@ -25,5 +26,6 @@ export const countriesFlag =
     { name: "Qatar", flagUrl: "https://flagcdn.com/qa.svg" },
     { name: "Russia", flagUrl: "https://flagcdn.com/ru.svg" },
     { name: "South Korea", flagUrl: "https://flagcdn.com/kr.svg" },
-    { name: "Japan", flagUrl: "https://flagcdn.com/jp.svg" }
+    { name: "Japan", flagUrl: "https://flagcdn.com/jp.svg" },
+    { name: "Mexico", flagUrl: "https://flagcdn.com/mx.svg" }
   ];

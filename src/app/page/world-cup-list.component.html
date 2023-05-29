@@ -12,7 +12,9 @@
       <div class="card-header">
         <div class="card-title">
           <h3>
-            <img style="border-color: black; border-style: solid; height: 25px; width: 35px" class="mr-2" [src]="getFlag(worldCup.host)">
+            <img *ngIf="worldCup.host !== 'South Korea, Japan'" style="border-color: black; border-style: solid; height: 25px; width: 35px" class="mr-2" [src]="getFlag(worldCup.host)">
+            <img *ngIf="worldCup.host === 'South Korea, Japan'" style="border-color: black; border-style: solid; height: 25px; width: 35px" class="mr-2" [src]="getFlag('Japan')">
+            <img *ngIf="worldCup.host === 'South Korea, Japan'" style="border-color: black; border-style: solid; height: 25px; width: 35px" class="mr-2" [src]="getFlag('South Korea')">
             {{worldCup.year}} World Cup
           </h3>
         </div>
