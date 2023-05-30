@@ -1,6 +1,4 @@
-# World Cup Front
-
-# World Cup Front
+# World Cup Angular Front
 
 Table of Contents:
 
