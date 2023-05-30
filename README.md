@@ -1,4 +1,4 @@
-# World Cup Front
+# World Cup Angular Front
 ![alt text](https://media.giphy.com/media/H3B4p7StPqXsa7q5Xo/giphy.gif?cid=ecf05e475ryn89fyei772kbudqc601a26egt7hncqiqyvckk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 Table of Contents:
